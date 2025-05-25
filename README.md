@@ -87,7 +87,9 @@ pip install -r requirements.txt
 
 ## 🌐 Live Demo
 
-[
+![Alt text](./Image%201.png )
+![Alt text](./Image%202.png )
+
 
 ---
 
